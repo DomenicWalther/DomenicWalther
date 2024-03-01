@@ -13,6 +13,8 @@ Thanks for dropping by my GitHub profile! I'm a trained photographer turned self
   - **Automated Image Sharing Tool:** Built a tool that uploads images to the cloud and shares them via email with clients without any additional input, saving time and effort.
   - **Order Sheet Generator:** Currently working on a tool to create order sheets that seamlessly integrate with our task management system, further improving our workflow efficiency.
 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 ## Expertise 🚀
 
 - **Main Areas:** Web Development Frontend: Svelte, Backend: Prisma - Currently learning NestJS & TypeORM
