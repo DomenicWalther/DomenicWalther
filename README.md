@@ -1,6 +1,6 @@
-# Hi there, I'm Domenic Walther! 👋
+# Hey there! I'm Domenic 👋
 
-Welcome to my GitHub profile! I'm a trained photographer turned self-studying web developer with a passion for technology and a love for problem-solving. Here's a bit more about me:
+Thanks for dropping by my GitHub profile! I'm a trained photographer turned self-studying web developer with a passion for technology and a love for problem-solving. Here's a bit more about me:
 
 ## About Me 📸💻
 
