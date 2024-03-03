@@ -14,7 +14,7 @@ Thanks for dropping by my GitHub profile! I'm a trained photographer turned self
   - **Order Sheet Generator:** Currently working on a tool to create order sheets that seamlessly integrate with our task management system, further improving our workflow efficiency.
 
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DomenicWalther)](https://git.io/streak-stats)
 ## Expertise 🚀
 
 - **Main Areas:** Web Development Frontend: Svelte, Backend: Prisma - Currently learning NestJS & TypeORM
