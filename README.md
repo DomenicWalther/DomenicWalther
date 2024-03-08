@@ -17,7 +17,7 @@ Thanks for dropping by my GitHub profile! I'm a trained photographer turned self
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DomenicWalther)](https://git.io/streak-stats)
 ## Expertise 🚀
 
-- **Main Areas:** Web Development Frontend: Svelte, Backend: Prisma - Currently learning NestJS & TypeORM
+- **Main Areas:** Web Development Frontend: Svelte, Backend: Prisma - Currently learning Go
 - **Favorite Tools:** NeoVim, Zoxide, Tailwind CSS, Figma
 
 
