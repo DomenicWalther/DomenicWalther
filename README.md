@@ -2,7 +2,7 @@
 ## Expertise 🚀
 
 - **Main Areas:** Web Development Frontend: Svelte, Angular, Backend: Java (Spring Boot), Prisma ORM
-- **Tools:** Vim, ZoxideFigma
+- **Tools:** Vim, Zoxide,Figma
 
 
 ## Let's Connect! 📧
